@@ -1,0 +1,12 @@
+D:\Kimseongji\C#\KioskApp4\KioskApp\bin\Release\KioskApp.exe.config
+D:\Kimseongji\C#\KioskApp4\KioskApp\bin\Release\KioskApp.exe
+D:\Kimseongji\C#\KioskApp4\KioskApp\bin\Release\KioskApp.pdb
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.csproj.AssemblyReference.cache
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.csproj.SuggestedBindingRedirects.cache
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.ucPanel.MenuItem.resources
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.MainForm.resources
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.Properties.Resources.resources
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.csproj.GenerateResource.cache
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.csproj.CoreCompileInputs.cache
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.exe
+D:\Kimseongji\C#\KioskApp4\KioskApp\obj\Release\KioskApp.pdb

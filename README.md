@@ -1,2 +1,4 @@
 # kiosk
-c# winform 기반, 컴포즈커피 키오스크
+kiosk sample, C#
+
+*property파일을 압축 해제해주세요.
